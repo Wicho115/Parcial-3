@@ -41,7 +41,3 @@
 - id_videojuego_genero (***PK***)
 - id_videojuego (***FK***)
 - id_genero (***FK***)
-
---- 
-
-- ## [Excel](https://docs.google.com/spreadsheets/d/1iJWvaynZF-utnOruJsoLUz4B2blfhnYsMQ9RsPtkxUk/edit?usp=sharing)
