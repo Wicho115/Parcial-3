@@ -41,3 +41,13 @@
 - id_videojuego_genero (***PK***)
 - id_videojuego (***FK***)
 - id_genero (***FK***)
+
+<br>
+
+# Relaciones
+
+1. Un **jugador** tiene un **pais** *(1-1)*
+1. Un **jugador** tiene varios **videojuegos** *(1-M)*
+1. Un **videojuego** tiene una **clasificacion** *(1-1)*
+1. Un **videojuego** tiene varios **generos** *(1-M)*
+1. Un **videojuego** tiene varias **plataformas** *(1-M)*
