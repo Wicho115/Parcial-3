@@ -14,6 +14,4 @@
 
 <br>
 
-# Diagrama
-
-## ![Entidad-Relacion](https://cdn.discordapp.com/attachments/1025054668038090855/1034891750197702706/EntidadRelacion_SO.drawio.png)
+# [Diagrama](./EntidadesAtributos.md#entidad-relacion)

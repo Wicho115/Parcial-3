@@ -51,3 +51,7 @@
 1. Un **videojuego** tiene una **clasificacion** *(1-1)*
 1. Un **videojuego** tiene varios **generos** *(1-M)*
 1. Un **videojuego** tiene varias **plataformas** *(1-M)*
+
+<br>
+
+## ![Entidad-Relacion](https://cdn.discordapp.com/attachments/1025054668038090855/1034891750197702706/EntidadRelacion_SO.drawio.png)
