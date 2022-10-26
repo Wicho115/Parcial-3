@@ -9,3 +9,5 @@
 - ## [Entidades y atributos](./EntidadesAtributos.md)
 
 - ## [Excel](https://docs.google.com/spreadsheets/d/1iJWvaynZF-utnOruJsoLUz4B2blfhnYsMQ9RsPtkxUk/edit?usp=sharing)
+
+- ## [Relaciones](./EntidadesAtributos.md#relaciones)
