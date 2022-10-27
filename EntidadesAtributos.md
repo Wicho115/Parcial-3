@@ -54,4 +54,4 @@
 
 <br>
 
-## ![Entidad-Relacion](https://cdn.discordapp.com/attachments/1025054668038090855/1034891750197702706/EntidadRelacion_SO.drawio.png)
+## ![Entidad-Relacion](https://media.discordapp.net/attachments/1025054668038090855/1035213960384876625/EntidadRelacion_SO.drawio.png?width=816&height=480)
